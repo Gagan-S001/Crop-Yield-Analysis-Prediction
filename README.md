@@ -1,6 +1,3 @@
-# Crop-Yield-Analysis-Prediction
-
-
 # 🌾 Crop Yield Analysis and Prediction
 
 An end-to-end Data Analytics and Machine Learning project focused on analyzing agricultural data, identifying factors influencing crop yield, and predicting crop productivity using Python and statistical techniques.
