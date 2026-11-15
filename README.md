@@ -136,8 +136,8 @@ Crop-Yield-Analysis/
 │
 ├── Crop_Data.csv
 ├── Crop Field_Code_nb.ipynb
-├── Crop_Yield_Report_Doc.docx
-├── Crop_Yield_PPT_.pptx
+├── Crop_Yield_Report.docx
+├── Crop_Yield_PPT.pptx
 └── README.md
 ```
 
